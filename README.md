@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**k-aghakhani/k-aghakhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I'm **Kiarash Aghakhani**, a passionate software engineer and educator with a strong background in **Java, Android Development**, and **WordPress**. With an MSc in Software Engineering and over a decade of experience, I specialize in creating innovative solutions and mentoring the next generation of developers.
 
-Here are some ideas to get you started:
+- 🎓 **Education**: MSc in Software Engineering
+- 🎯 **Current Role**: Co-founder at **EKVAN** and Lecturer at top Iranian universities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Programming Languages**: Java, Python, C++, PHP  
+- **Web Development**: WordPress, HTML, CSS, JavaScript  
+- **Mobile Development**: Android SDK, Kotlin  
+- **Data Analysis**: Big Data, Neural Networks  
+- **Tools & Platforms**: Git, Docker, IntelliJ IDEA, Eclipse  
+
+## 📫 How to Reach Me
+- **Email**: [kiarash1988@gmail.com](mailto:kiarash1988@gmail.com)
+- **LinkedIn**: [Kiarash Aghakhani](https://www.linkedin.com/in/kaghakhani/)
+- **GitHub**: You're already here! 😄
+
+---
+
+Thank you for visiting my GitHub profile! Let's connect and collaborate on exciting projects. 🚀
